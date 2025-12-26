@@ -4,7 +4,7 @@ A reusable Express + TypeScript starter template with a structured folder layout
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 ```
 src/
 ├── config/
@@ -23,7 +23,7 @@ src/
 
 ---
 
-## 🚀 Features
+##  Features
 
 - TypeScript ready  
 - Express server setup  
@@ -32,7 +32,7 @@ src/
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Make sure you have the following installed:
 
@@ -41,7 +41,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -73,9 +73,9 @@ npm run dev
 ### use below commande for nodemon 
 `npm start`
 
-📌 Folder Purpose
+## Folder Purpose
 
-config – database and environment configuration
+1. config – database and environment configuration
 
 controllers – route handler logic
 
