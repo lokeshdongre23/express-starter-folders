@@ -53,7 +53,9 @@ git clone https://github.com/lokeshdongre23/express-starter-folders.git <your-pr
 npm init -y
 npm install express 
 npm install -D typescript ts-node @types/express @types/node @types/basic-auth nodemon
+npm i dotenv
 npx tsc --init
+
 ```
 -> Add below lines inside the `package.json`
 ```
@@ -90,3 +92,7 @@ npm run dev
 7. utils – helper functions
 
 8. server.ts – entry point of the app
+
+## Note 
+---
+Do changes in `tsconflig.json`, `package.json` according to you project and dependencies needed
