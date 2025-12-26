@@ -5,7 +5,7 @@ A reusable Express + TypeScript starter template with a structured folder layout
 ---
 
 ## 📂 Folder Structure
-
+```
 src/
 ├── config/
 │ └── db.ts
@@ -18,7 +18,7 @@ src/
 └── server.ts
 .env
 .gitignore
-
+```
 
 
 ---
