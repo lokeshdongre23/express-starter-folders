@@ -77,16 +77,16 @@ npm run dev
 
 1. config – database and environment configuration
 
-controllers – route handler logic
+2. controllers – route handler logic
 
-middlewares – Express middleware functions
+3. middlewares – Express middleware functions
 
-models – database models / schemas
+4. models – database models / schemas
 
-routes – API route definitions
+5. routes – API route definitions
 
-services – business logic/services
+6. services – business logic/services
 
-utils – helper functions
+7. utils – helper functions
 
-server.ts – entry point of the app
+8. server.ts – entry point of the app
