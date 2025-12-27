@@ -7,6 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
+// this function is use to connect he dataBase 
 dbConnection();
 
 // Routes
