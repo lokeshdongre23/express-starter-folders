@@ -74,7 +74,10 @@ MONGO_URI=your_mongodb_connection_string
 ```
 
 you can find the connection string in your mongodb atlas account or if you are using local mongodb(mongo community version) then it will be like
-`mongodb://localhost:27017/yourdatabasename`
+
+```
+mongodb://localhost:27017/yourdatabasename
+```
 
 ### Changes in `tsconfig.json`
 
